@@ -1,0 +1,9 @@
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\Фунти-кілограми_2\bin\Debug\Фунти-кілограми_2.exe.config
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\Фунти-кілограми_2\bin\Debug\Фунти-кілограми_2.exe
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\Фунти-кілограми_2\bin\Debug\Фунти-кілограми_2.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\Фунти-кілограми_2\obj\Debug\Фунти-кілограми_2.csprojResolveAssemblyReference.cache
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\Фунти-кілограми_2\obj\Debug\Фунти_кілограми_2.Form1.resources
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\Фунти-кілограми_2\obj\Debug\Фунти_кілограми_2.Properties.Resources.resources
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\Фунти-кілограми_2\obj\Debug\Фунти-кілограми_2.csproj.GenerateResource.Cache
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\Фунти-кілограми_2\obj\Debug\Фунти-кілограми_2.exe
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\Фунти-кілограми_2\obj\Debug\Фунти-кілограми_2.pdb

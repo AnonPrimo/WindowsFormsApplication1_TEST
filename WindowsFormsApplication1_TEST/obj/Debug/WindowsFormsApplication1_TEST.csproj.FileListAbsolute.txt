@@ -1,0 +1,12 @@
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\WindowsFormsApplication1_TEST\bin\Debug\WindowsFormsApplication1_TEST.exe.config
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\WindowsFormsApplication1_TEST\bin\Debug\WindowsFormsApplication1_TEST.exe
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\WindowsFormsApplication1_TEST\bin\Debug\WindowsFormsApplication1_TEST.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\WindowsFormsApplication1_TEST\obj\Debug\WindowsFormsApplication1_TEST.csprojResolveAssemblyReference.cache
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\WindowsFormsApplication1_TEST\obj\Debug\WindowsFormsApplication1_TEST.Form1.resources
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\WindowsFormsApplication1_TEST\obj\Debug\WindowsFormsApplication1_TEST.Properties.Resources.resources
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\WindowsFormsApplication1_TEST\obj\Debug\WindowsFormsApplication1_TEST.csproj.GenerateResource.Cache
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\WindowsFormsApplication1_TEST\obj\Debug\WindowsFormsApplication1_TEST.exe
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\WindowsFormsApplication1_TEST\obj\Debug\WindowsFormsApplication1_TEST.pdb
+C:\Users\RPZ3\Source\Repos\WindowsFormsApplication1_TEST\WindowsFormsApplication1_TEST\bin\Debug\WindowsFormsApplication1_TEST.exe.config
+C:\Users\RPZ3\Source\Repos\WindowsFormsApplication1_TEST\WindowsFormsApplication1_TEST\obj\Debug\WindowsFormsApplication1_TEST.exe
+C:\Users\RPZ3\Source\Repos\WindowsFormsApplication1_TEST\WindowsFormsApplication1_TEST\obj\Debug\WindowsFormsApplication1_TEST.pdb

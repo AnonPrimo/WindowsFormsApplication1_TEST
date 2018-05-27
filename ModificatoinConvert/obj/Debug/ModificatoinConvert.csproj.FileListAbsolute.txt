@@ -1,0 +1,9 @@
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\ModificatoinConvert\bin\Debug\ModificatoinConvert.exe.config
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\ModificatoinConvert\bin\Debug\ModificatoinConvert.exe
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\ModificatoinConvert\bin\Debug\ModificatoinConvert.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\ModificatoinConvert\obj\Debug\ModificatoinConvert.csprojResolveAssemblyReference.cache
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\ModificatoinConvert\obj\Debug\ModificatoinConvert.Form1.resources
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\ModificatoinConvert\obj\Debug\ModificatoinConvert.Properties.Resources.resources
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\ModificatoinConvert\obj\Debug\ModificatoinConvert.csproj.GenerateResource.Cache
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\ModificatoinConvert\obj\Debug\ModificatoinConvert.exe
+Z:\StudentsFiles\RPZ\RPZ3\Чубіна\c#\WindowsFormsApplication1_TEST\ModificatoinConvert\obj\Debug\ModificatoinConvert.pdb
